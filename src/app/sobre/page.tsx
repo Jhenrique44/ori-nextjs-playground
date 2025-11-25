@@ -1,3 +1,4 @@
+import ClientFetch from "@/src/components/client-fetch";
 import Width from "@/src/components/width";
 import { Metadata } from "next";
 
@@ -10,6 +11,7 @@ export default function SobrePage() {
     <main>
       <h2>Sobre</h2>
       <Width />
+      <ClientFetch />
     </main>
   );
 }
