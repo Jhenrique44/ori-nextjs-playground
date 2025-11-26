@@ -19,8 +19,11 @@ export default function Menu() {
         <Link href="/cursos"> Cursos</Link>
       </li>
       <li>
-        <Link href="/imc"> Imc</Link>
+        <Link href="/acoes">Ações</Link>
       </li>
+      {/* <li>
+        <Link href="/imc"> Imc</Link>
+      </li> */}
     </ul>
   );
 }
