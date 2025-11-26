@@ -11,7 +11,7 @@ export default function SobrePage() {
     <main>
       <h2>Sobre</h2>
       <Width />
-      <ClientFetch />
+      {/* <ClientFetch /> */}
     </main>
   );
 }
